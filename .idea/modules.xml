@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlibabaWordOfMouthMFAS.iml" filepath="$PROJECT_DIR$/AlibabaWordOfMouthMFAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mfasapp/mfasapp.iml" filepath="$PROJECT_DIR$/mfasapp/mfasapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mfascore/mfascore.iml" filepath="$PROJECT_DIR$/mfascore/mfascore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mfasweb/mfasweb.iml" filepath="$PROJECT_DIR$/mfasweb/mfasweb.iml" />
+    </modules>
+  </component>
+</project>
